@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="manager">服务管家</string>
+    <string name="tops">微信精选</string>
+    <string name="girls">美女中心</string>
+    <string name="mine">个人中心</string>
+    <string name="tab_manager">管家</string>
+</resources>
